@@ -46,7 +46,7 @@ publish {
     userOrg = 'edgedi951101'//bintray.com用户名
     groupId = 'com.fuzhaowei'//jcenter上的路径
     artifactId = 'mylibrary'//项目名称
-    publishVersion = '1.0.0'//版本号
+    publishVersion = '1.0.1'//版本号
     desc = 'android permission aoto manager'//描述，不重要
     website = 'https://github.com/fuzhaowei/mylibrary'
 }
