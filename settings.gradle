@@ -1,2 +1,1 @@
-include ':app'
-include ':mylibrary-master'
+include ':app','mylibrary-master'

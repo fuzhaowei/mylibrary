@@ -33,7 +33,7 @@ object HttpUtil {
      *  需要http://||https://开头，否则会报错
      */
     @Volatile
-    private var base_url = "http://220.175.6.113:8048/hhshjsp/hhshjsp_base/service/webService/dataservice/"
+    private var base_url = "http://www.baidu.com"
 
     /**
      * jsonTYPE
