@@ -55,7 +55,7 @@
 
                 })
 ```
-如8.0以上版本安装apk无反应，添加权限<uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+如8.0以上版本安装apk无反应，添加权限 <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
 
 
 ```
