@@ -61,5 +61,5 @@
 ```
 
 ```
-implementation 'com.fuzhaowei:mylibrary:1.0.1'
+implementation 'com.fuzhaowei:mylibrary:1.1.0'
 ```
