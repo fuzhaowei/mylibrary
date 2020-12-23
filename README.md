@@ -13,6 +13,7 @@ Android 9.0以上使用HTTP请求：
     2.清单文件中注册
 ```
  android:networkSecurityConfig="@xml/network"
+ tools:targetApi="n"
  ```
 
 私有域使用方法：
