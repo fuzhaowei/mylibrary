@@ -6,8 +6,12 @@ Android 9.0以上使用HTTP请求：
     1.在res下新建文件夹xml，再新建xml文件file_paths.xml，内容：
 ```
 <?xml version="1.0" encoding="utf-8"?>
-<network-security-config>
-    <base-config cleartextTrafficPermitted="true" />
+<network-security-config xmlns:tools="http://schemas.android.com/tools">
+
+    <base-config
+        cleartextTrafficPermitted="true"
+        tools:ignore="InsecureBaseConfiguration" />
+
 </network-security-config>
 ```
     2.清单文件中注册
